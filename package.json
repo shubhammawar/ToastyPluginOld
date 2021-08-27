@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubhammawar.git"
+    "url": "git+https://github.com/shubhammawar/ToastyPlugin.git"
   },
   "keywords": [
     "Toast",
@@ -29,7 +29,7 @@
   "author": "Shubham Mawar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shubhammawar/issues"
+    "url": "https://github.com/shubhammawar/ToastyPlugin/issues"
   },
-  "homepage": "https://github.com/shubhammawar/"
+  "homepage": "https://github.com/shubhammawar/ToastyPlugin"
 }
